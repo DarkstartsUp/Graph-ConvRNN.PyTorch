@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Graph ConvRNN module
 
-**[This file](https://github.com/DarkstartsUp/Graph-ConvRNN.pytorch/blob/master/graph_convrnn.py)** contains the implementation of Graph ConvRNN in PyTorch.
+**[This file](https://github.com/DarkstartsUp/Graph-ConvRNN.pytorch/blob/main/graph_convrnn.py)** contains the implementation of Graph ConvRNN in PyTorch.
 
 The `Graph_ConvRNN` module derives from `nn.Module` so it can be used as any other PyTorch module. Example usage:
 
