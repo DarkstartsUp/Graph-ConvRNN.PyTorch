@@ -68,7 +68,7 @@ Two real-world datasets were tested to demonstrate the effectiveness of the netw
 
 The unzipped file structure:
 ```
-- data
+    - data
 	- Metro Ridership Dataset
 	- Seattle_Loop_Dataset
 ```
